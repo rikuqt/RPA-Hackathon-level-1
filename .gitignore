@@ -16,3 +16,4 @@ testrun/*
 .~lock*
 *.pkl
 *secrets.env
+*customer_class.py
